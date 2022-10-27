@@ -3,3 +3,5 @@ SETUP.md
 __pycache__/
 *.py[cod]
 *.pyc
+
+.env
