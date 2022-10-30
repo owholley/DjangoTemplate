@@ -5,3 +5,9 @@ __pycache__/
 *.pyc
 
 .env
+
+htmlcov/
+.coverage
+.coverage.*
+coverage.xml
+*.cover
